@@ -1,4 +1,4 @@
-# SuicideBD-A-Suicidal-Dataset-for-Bangladesh
+# Socio-Economic-Data-Analysis-BD
 
 This repository includes all necessary file (code) that used to modify or update data for suicidal data collection.
 
